@@ -5,37 +5,44 @@ Currently studying at **ENSIIE (France)** — one of the top engineering schools
 
 I’ve always loved **mathematical olympiads**, **game theory**, and exploring how models can describe complex real-world systems — from **financial markets** to **energy optimization** and **industrial intelligence**.
 
+<hr>
 
 ### 🔭 Currently Working On
-- 🧠 Developing an NLP-based recommendation engine using lemmatization, semantic matching, and a custom scoring & ranking system.
-- 🏥 Building a semantic search MVP at **Linking Therapists Academy**, connecting healthcare establishments with training programs through AI and embeddings.
+- 🧠 Developing an NLP-based recommendation engine using lemmatization, semantic matching, and a custom scoring & ranking system.  
+- 🏥 Building a semantic search MVP at **Linking Therapists Academy**, connecting healthcare establishments with training programs through AI and embeddings.  
 - ⚙️ Exploring time-series forecasting and production process optimization from my experience at **OCP (Office Chérifien des Phosphates)**.
 
+<hr>
 
 ### 👯 I’m Looking to Collaborate On
-- 🤝 Machine Learning and MLOps projects that bridge data, modeling, and scalable deployment.
+- 🤝 Machine Learning and MLOps projects that bridge data, modeling, and scalable deployment.  
 - 🧩 Open-source tools for semantic search, recommendation systems, and financial AI applications.
 
+<hr>
 
 ### 🌱 Currently Learning
-- 📊 Advanced statistical methods for finance, insurance, and quantitative modeling.
-- ⚡ Retrieval optimization and distributed model inference for large-scale systems.
+- 📊 Advanced statistical methods for finance, insurance, and quantitative modeling.  
+- ⚡ Retrieval optimization and distributed model inference for large-scale systems.  
 - 🧱 Designing robust data pipelines that scale with real-world workloads.
 
+<hr>
 
 ### 💬 Ask Me About
-- 🏭 My experience at **OCP** — optimizing production processes and forecasting KPIs with time-series models.
-- 🧩 My work at **Linking Therapists Academy** — building an MVP for a semantic recommendation engine.
+- 🏭 My experience at **OCP** — optimizing production processes and forecasting KPIs with time-series models.  
+- 🧩 My work at **Linking Therapists Academy** — building an MVP for a semantic recommendation engine.  
 - 🧠 My participation in hackathons focused on data for energy, finance, and industrial systems.
 
+<hr>
 
 ### ⚡ Fun Fact
 I love connecting theory and practice — from mathematical proofs to real-time ML systems — and I’m always curious about how algorithms shape the world.
 
+<hr>
 
 ### 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ali-daoudi-23bb03283)
 
+<hr>
 
 ### 💻 Tech Stack
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -63,11 +70,11 @@ I love connecting theory and practice — from mathematical proofs to real-time 
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
 
+<hr>
 
 ### 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=DAOUDIMONSTER&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=DAOUDIMONSTER&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DAOUDIMONSTER&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 
 [![](https://visitcount.itsvg.in/api?id=DAOUDIMONSTER&icon=0&color=0)](https://visitcount.itsvg.in)
