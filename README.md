@@ -1,6 +1,6 @@
 ## 🧠 About Me
 
-Hi, I’m **Ali Daoudi** — an **Applied Mathematics enthusiast**, **Machine Learning Engineer**, and **Data Scientist** passionate about connecting mathematics, AI, and industry.  
+Hi, I’m **Ali Daoudi** — an **Applied Mathematics enthusiast**, **Machine Learning Engineer**,**Data Enginereer** and **Data Scientist** passionate about connecting mathematics, AI, and industry.  
 Currently studying at **ENSIIE (France)** — one of the top engineering schools in computer science — I combine my passion for **mathematics, finance, energy systems**, and **industrial data applications**.
 
 I’ve always loved **mathematical olympiads**, **game theory**, and exploring how models can describe complex real-world systems — from **financial markets** to **energy optimization** and **industrial intelligence**.
